@@ -698,6 +698,7 @@ li a:hover {
         margin-top: -115px;
     }
     .info {
+        padding: 0;
         display: flex;
         flex-direction: column;
     }
