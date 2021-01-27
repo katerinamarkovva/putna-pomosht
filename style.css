@@ -69,7 +69,7 @@ li a:hover {
 /*section - 01*/
 
 .transportni-uslugi {
-    background-image: linear-gradient(to bottom, rgba(27, 29, 35, 0.9), rgba(35, 33, 28, 0.53)), url('image/image-6.2.jpg');
+    background-image: linear-gradient(to bottom, rgba(27, 29, 35, 0.9), rgba(35, 33, 28, 0.53)), url('image-6.2.jpg');
     background-repeat: no-repeat;
     height: 500px;
     background-position: center;
@@ -486,7 +486,7 @@ i {
 /*RANGE-NUMBER*/
 
 .range-number {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.65), rgba(11, 9, 7, 0.81)), url(image/image-7.1.jpg);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.65), rgba(11, 9, 7, 0.81)), url('image-7.1.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
