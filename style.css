@@ -709,7 +709,7 @@ li a:hover {
         }
         25% {
             background-color: transparent;
-            left: 100%;
+            left: 70%;
             top: 0px;
         }
     }
