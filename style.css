@@ -697,6 +697,10 @@ li a:hover {
         width: 60%;
         margin-top: -115px;
     }
+    .info {
+        display: flex;
+        flex-direction: column;
+    }
     .footer-copyright {
         padding: 15px;
         text-align: center;
