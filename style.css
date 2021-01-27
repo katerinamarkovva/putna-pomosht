@@ -694,7 +694,8 @@ li a:hover {
         margin: 0 auto;
     }
     .image-footer {
-        width: 95%;
+        width: 60%;
+        margin-top: -115px;
     }
     .footer-copyright {
         padding: 15px;
@@ -708,7 +709,7 @@ li a:hover {
         }
         25% {
             background-color: transparent;
-            left: 25%;
+            left: 130%;
             top: 0px;
         }
     }
